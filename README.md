@@ -1,13 +1,11 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="center" margin-bottom=0px> Meus estudos </h3>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Estudando para desenvolver projetos que facilitam minhas rotinas chatas.</b>
+<p> colocando aqui no Github oque estou aprendendo postando alguns arquivos com algumas anotações e códigos que para entender.</p>
 
-  <br></br>
-<div align="center" padding=0px margin-top=0px>
-  <img align="top" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-  <p><img align="match-parent" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielLemeez&show_icons=true&theme=dark&locale=en&layout=compact" alt="DanielLemeez" /></p>
-</div>
+<b align="left">Meu Twitter/X e meu Instagram</b>
+<p align="left">
+<a href="https://twitter.com/https://x.com/lotus_6dan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/lotus_6dan" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/danielkunks/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/danielkunks/" height="30" width="40" /></a>
+</p>
 
-</td>
-
-<td width="50%" align="center">
-
+<b align="left">Estudando no momento:</b>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
