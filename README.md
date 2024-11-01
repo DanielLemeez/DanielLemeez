@@ -1,7 +1,7 @@
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Estudando para desenvolver projetos que facilitam minhas rotinas chatas.</b>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Gosto de resolver problemas e programação se é um hobby que se encaixa muito bem nesse gosto</b>
 <p> colocando aqui no Github oque estou aprendendo postando alguns arquivos com algumas anotações e códigos que para entender.</p>
 
-<b align="left">Meu Twitter/X e meu Instagram</b>
+<b align="left"> Meu Twitter/X e meu Instagram </b>
 <p align="left">
 <a href="https://twitter.com/https://x.com/lotus_6dan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/lotus_6dan" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/danielkunks/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/danielkunks/" height="30" width="40" /></a>
