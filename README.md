@@ -1,4 +1,4 @@
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Gosto de resolver problemas e programação se é um hobby que se encaixa muito bem nesse gosto</b>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Gosto de resolver problemas e programação é um hobby que se encaixa muito bem nesse gosto</b>
 <p> colocando aqui no Github oque estou aprendendo postando alguns arquivos com algumas anotações e códigos que para entender.</p>
 
 <b align="left"> Meu Twitter/X e meu Instagram </b>
